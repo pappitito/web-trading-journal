@@ -1,0 +1,24 @@
+.third-area{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    
+}
+
+.why{
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 40px;
+    font-weight: 450;
+}
+
+.why-text{
+    width: 900px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 45px;
+    margin-bottom: 70px;
+}
